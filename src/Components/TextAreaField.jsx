@@ -1,4 +1,3 @@
-// TextAreaField.js
 
 import React from 'react';
 
